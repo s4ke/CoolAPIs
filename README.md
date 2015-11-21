@@ -1,2 +1,2 @@
 # CoolAPIs
-This repository contains some APIs me and my friends consider cool.
+This repository contains some APIs my friends and I consider cool.
