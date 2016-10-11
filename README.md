@@ -18,7 +18,7 @@ Javaslang core is a functional library for Java 8+. It helps to reduce the amoun
 ### FunctionalJava 
 Use functional programming in your Java program. For all the Haskell lovers that also code in Java: http://www.functionaljava.org/
 
-### JOOQ
+### jOOQ
 Write typesafe SQL in Java: http://www.jooq.org/
 
 ##Haskell
